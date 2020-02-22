@@ -1,0 +1,43 @@
+{
+  "name": "paynotes",
+  "version": "1.0.0",
+  "description": "A Note Taking Application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchit-mendiratta/PayNotes.git"
+  },
+  "author": "Sanchit Mendiratta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchit-mendiratta/PayNotes/issues"
+  },
+  "homepage": "https://github.com/sanchit-mendiratta/PayNotes#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
