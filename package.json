@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/sanchit-mendiratta/PayNotes#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.22.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "5.0.1"
